@@ -1,7 +1,7 @@
 name: M-E-T Connections
 favicon: null
-layout_spectrum: 0.18917759647592902
-typography_spectrum: 0.8290481527801603
+layout_spectrum: 0.36372
+typography_spectrum: 0.60523
 title: M-E-T Connections
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#25bed5'
+    - '#8b8a8f'
+    - '#7e7d7f'
+    - '#aaaaaa'
+    - '#00ffff'
   brandStrength: 0.11029727454297245
   lightness: 0.5699676326476038
   saturation: 0.9381179141346365
